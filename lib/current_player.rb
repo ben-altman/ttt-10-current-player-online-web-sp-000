@@ -1,4 +1,3 @@
-#"X" moves first and on even turns, "O" on odd
 
 def turn_count(board)
   board.count do |position|
